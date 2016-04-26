@@ -12,7 +12,7 @@ If you want to known seaborn, you could click **[here](http://nbviewer.jupyter.o
 
 Then, I known the third visualization library, bokeh, not only it can tackle big data effectively, but also it has some style of D3.js, it let you explore the data by interactive with the plot.
 If you use seaborn when there are lots of points, you must wait a long time, and the points overlay heavily, you can only get a blur graph.
-The introduction of bokeh, please see **[here]()**.
+The introduction of bokeh, please see **[here](http://nbviewer.jupyter.org/github/yishi/Data-Visualization-In-Python/blob/master/Introduction_of_bokeh.ipynb)**.
 
 In one word, they all have their features.
 
