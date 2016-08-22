@@ -18,3 +18,11 @@ In one word, they all have their features.
 
 If you learn all of them well, you could use them as your will.
 
+****************************************************************************
+One graph is worth hundred words.
+
+But what graphs we should use and how to use them are a big question.
+
+**[Here](http://nbviewer.jupyter.org/github/yishi/Data-Visualization-In-Python/blob/master/data_visualization_gallery.ipynb )**, I make a simple summary about the type of the graphs and where to use them.
+
+If you want to known more, please refer the book of **Visualize This** or the website http://flowingdata.com/ .
